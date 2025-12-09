@@ -1,1 +1,0 @@
-3 - PyPy Scenario: PyPy is advantageous for long-running applications with intensive loops

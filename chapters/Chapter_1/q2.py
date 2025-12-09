@@ -1,1 +1,0 @@
-3 - Function Comparison: The bytecode for multiply(a, b) is structurally identical to the
